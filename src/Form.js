@@ -25,7 +25,7 @@ const Form = () => {
               Sign in
             </a>
             <div class="forgot" align="center">
-              <a href="#">Forgot Password?</a>
+              <a href="#">Forgot Password ? </a>
             </div>
           </form>
         </div>
