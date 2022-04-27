@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ashutosh-mer/react-swtich/static/css/main.3263cdb5.css",
+    "main.js": "/ashutosh-mer/react-swtich/static/js/main.3c12ead2.js",
+    "static/js/787.3b618306.chunk.js": "/ashutosh-mer/react-swtich/static/js/787.3b618306.chunk.js",
+    "index.html": "/ashutosh-mer/react-swtich/index.html",
+    "main.3263cdb5.css.map": "/ashutosh-mer/react-swtich/static/css/main.3263cdb5.css.map",
+    "main.3c12ead2.js.map": "/ashutosh-mer/react-swtich/static/js/main.3c12ead2.js.map",
+    "787.3b618306.chunk.js.map": "/ashutosh-mer/react-swtich/static/js/787.3b618306.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3263cdb5.css",
+    "static/js/main.3c12ead2.js"
+  ]
+}
